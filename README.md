@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Olá, sou eu o Gabryel.
+
+###  😀Gosto de programar em Lua.
+
+### 8️⃣Estou atualmente no Oitavo Ano no turno Vespertino.
+
+### 📖Estou cursando no SesiSenai pois passei no Hellow Blumenau.
+
+### 🎈Um fato curioso sobre mim: Nas horas vagas programo no Roblox Studio pois é um progrma que ultiliza a língugem de programação Lua, uma das mais faceis de entender.
+
+### 😺O meu intuido de ter criado está conta é pra executar e salvar meus projetos.
 
 <!--
 **GabryelMartendal/GabryelMartendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
