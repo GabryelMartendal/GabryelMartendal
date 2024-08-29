@@ -6,7 +6,7 @@
 
 ### 📖Estou cursando no SesiSenai pois passei no Hellow Blumenau.
 
-### 🎈Um fato curioso sobre mim: Nas horas vagas programo no Roblox Studio pois é um progrma que ultiliza a língugem de programação Lua, uma das mais faceis de entender.
+### 🎈Um fato curioso sobre mim: Nas horas vagas programo no Intelij pois é um progrma que ultiliza a língugem de programação Java, que meu Professor Savio ensinou.
 
 ### 😺O meu intuido de ter criado está conta é pra executar e salvar meus projetos.
 
